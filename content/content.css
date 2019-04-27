@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+* {
+    font-family: 'Inconsolata', monospace;
+}
+
+pre {
+    font-size: 1.2em;
+}
+
+.root {
+    transition-duration: 0.8s;
+}
+
+.darkmode {
+    color: #d4d4d4;
+    background-color: #1E1E1E;
+}
+
+.info {
+    margin: 10px 0;
+}
+
+.info>b {
+    font-size: 1.2em;
+    margin: 15px 0px !important;
+}
